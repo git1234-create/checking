@@ -1,0 +1,13 @@
+{
+  "name": "petrolimex-price-checker",
+  "version": "1.0.0",
+  "description": "Get Petrolimex Hanoi fuel prices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
